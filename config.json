@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrecrypt",
+        "uuid": 3758719,
+        "checksum": "twxpi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
